@@ -72,5 +72,10 @@ echo "         ______________________________________________________
            !__!  !__!__!!__!__!!_____!!__!__!!_____!!__!__!!_____!
                                                                   " > /var/log/apache2/access.log
 xterm -e tail -f /var/log/apache2/access.log &
-clear
+clearclear
 exit
+clear
+clear
+
+ls
+ls
